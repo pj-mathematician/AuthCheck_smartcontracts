@@ -5,4 +5,4 @@ Included Flask API being used for authentication.
 
 
 
-Sample API hosted at https://nftinfo.pjmathematician.repl.co/nft_info?token=<token>
+Sample API hosted at https://nftinfo.pjmathematician.repl.co/nft_info?token=KT1Qm6TpJq9NestpfeEN5AhaNys9GxFknrsvn5
