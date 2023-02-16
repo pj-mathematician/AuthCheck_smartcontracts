@@ -39,3 +39,6 @@ def get_nft(token_id):
 
     # Return the metadata as JSON
     return jsonify(nft_metadata)
+
+
+app.run(host='0.0.0.0', port=81)
